@@ -5,7 +5,7 @@ class Customer:
     # keep track of instances
     allCustomers = []
     
-    # Customer constructor
+        # Customer constructor
     def __init__(self, firstName, lastName):
         self._firstName = firstName
         self._lastName = lastName
